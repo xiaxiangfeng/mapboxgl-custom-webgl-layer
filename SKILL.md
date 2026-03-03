@@ -1,6 +1,6 @@
 ---
 name: mapboxgl-custom-webgl-layer
-description: Build, debug, and optimize mapboxgl `type: 'custom'` layers using raw WebGL. Covers shader setup, buffer pipelines, matrix usage, animation uniforms, precision-safe coordinate handling (RTC/local origin), and multiple geometry types (lines, polygons, points/icons). Use for custom GIS overlays and for fixing jitter, tearing, flicker, or empty rendering issues.
+description: "Build, debug, and optimize mapboxgl `type: 'custom'` layers using raw WebGL. Covers shader setup, buffer pipelines, matrix usage, animation uniforms, precision-safe coordinate handling (RTC/local origin), and multiple geometry types (lines, polygons, points/icons). Use for custom GIS overlays and for fixing jitter, tearing, flicker, or empty rendering issues."
 ---
 
 # Mapbox GL Custom WebGL Layer
