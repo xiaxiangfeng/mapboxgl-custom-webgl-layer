@@ -1,7 +1,7 @@
 {
   "name": "mapboxgl-custom-webgl-layer",
   "version": "1.0.0",
-  "description": "This is a skill that allows AI to write mapboxgl custom layers efficiently and correctly.",
+  "description": "AI skill for building, debugging, and optimizing Mapbox GL JS custom WebGL layers (lines, polygons, points, animations) with precision-safe rendering.",
   "homepage": "https://github.com/xiaxiangfeng/mapboxgl-custom-webgl-layer#readme",
   "bugs": {
     "url": "https://github.com/xiaxiangfeng/mapboxgl-custom-webgl-layer/issues"
