@@ -1,0 +1,20 @@
+{
+  "name": "mapboxgl-custom-webgl-layer",
+  "version": "1.0.0",
+  "description": "This is a skill that allows AI to write mapboxgl custom layers efficiently and correctly.",
+  "homepage": "https://github.com/xiaxiangfeng/mapboxgl-custom-webgl-layer#readme",
+  "bugs": {
+    "url": "https://github.com/xiaxiangfeng/mapboxgl-custom-webgl-layer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaxiangfeng/mapboxgl-custom-webgl-layer.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

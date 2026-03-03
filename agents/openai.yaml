@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mapbox WebGL Custom Layer"
+  short_description: "Raw WebGL Mapbox custom layers with precision-safe geometry."
+  default_prompt: "Use $mapboxgl-custom-webgl-layer to implement or debug a mapboxgl type:'custom' raw WebGL layer with stable geometry and jitter fixes."
